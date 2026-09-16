@@ -40,7 +40,7 @@ Before promoting the site to buyers, connect and test the real quote inbox, repl
 
 ## Content and assets
 
-TOROS Italia is the reference manufacturer. Supplier product photographs are included under the project owner's authorization. The hero is an AI background and lighting edit of the electric machine photo; detail photos retain the supplier imagery. Optimized files preserve that artwork. The 120 mm knife source is low resolution and should be replaced when a better supplier file is available.
+TOROS Italia is the reference manufacturer. Supplier product photographs are included under the project owner's authorization. The hero is an AI background and lighting edit of the electric machine photo; visible manufacturer logos in the hero, electric-machine, gas-machine and 120 mm knife photos have been digitally removed at the project owner’s request. The 80 mm knife photograph is unchanged. Optimized files use these cleaned images. Manufacturer information in the catalogue remains accurate. The 120 mm knife source is low resolution and should be replaced when a better supplier file is available.
 
 Technical information was reviewed on 16 September 2026. Source links appear on the expanded product pages. Missing capacity, power, compatibility, prices, stock, warranty and delivery details must be confirmed in the actual offer. Do not add fabricated reviews, ratings, offers, certifications or performance claims. Product structured data does not by itself qualify these pages for Google's product rich results.
 
